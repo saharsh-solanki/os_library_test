@@ -1,0 +1,8 @@
+# Byte-compiled / cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# pytest cache
+.pytest_cache/
