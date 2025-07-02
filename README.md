@@ -33,4 +33,9 @@ pytest test/lib_test.py -v
 OR
 
 pytest -s test/lib_test.py -v
+
+## Run first command of handleLongestContigousevenNumber.py
+python handleLongestContigousevenNumber.py
+
+
  
